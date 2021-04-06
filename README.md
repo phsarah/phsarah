@@ -30,7 +30,7 @@
 📍 **Full Stack Web Development** - Brazil
 
 
-- 📖 **Federal Institute of Science and Technology - IFTM **\
+- 📖 **Federal Institute of Science and Technology - IFTM**\
 📆 2017 – 2019\
 📍 **High School and Computer Graphics Technician** - Uberlândia, Brazil
 
