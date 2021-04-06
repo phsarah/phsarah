@@ -16,7 +16,6 @@
 - 🌱 I’m currently learning ...
 - 😄 Pronouns: She/Her Ela/Dela
 - ⚡ Fun fact: ...
-- 
 <p align='center'>
   📫 How to reach me: <a href='mailto:sarah.phessel@gmail.com'>sarah.phessel@gmail.com</a>
 </p>
