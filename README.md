@@ -5,12 +5,6 @@
 <p align='center'>
   Full Stack developer from Minas Gerais, Brazil.
 </p>
-
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: She/Her Ela/Dela
-- ⚡ Fun fact: ...
-
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/sarah-pereira-hessel-35a520160/" target="_blank">
@@ -18,16 +12,18 @@
   </a>&nbsp;&nbsp;
 </p>
 
+- 🔭 I’m currently working on ... 
+- 🌱 I’m currently learning ...
+- 😄 Pronouns: She/Her Ela/Dela
+- ⚡ Fun fact: ...
+- 
 <p align='center'>
   📫 How to reach me: <a href='mailto:sarah.phessel@gmail.com'>sarah.phessel@gmail.com</a>
 </p>
 
 
 <details>
-  <summary>📃 My story</summary>
-
-
-## Education
+  <summary>📃 My Education</summary>
 
 
 - 📖 **Labenu**\
