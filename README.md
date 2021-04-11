@@ -59,7 +59,7 @@
 <summary>Softwares</summary>
 
 <p>
-<img src="https://commons.wikimedia.org/wiki/File:Logo_Blender.svg#/media/File:Blender_logo_no_text.svg" alt="blender" width="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1024px-Blender_logo_no_text.svg.png" alt="blender" width="50" />
 <img src="https://pics.freeicons.io/uploads/icons/png/18579954981556105328-512.png" alt="notion" width="50" />
 <img src="https://symbols.getvecta.com/stencil_92/21_postman-icon.fddaf8a27f.svg" alt="postman" width="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="slack" width="50" />
