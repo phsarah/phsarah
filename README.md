@@ -34,6 +34,7 @@
 📆 2017 – 2019\
 📍 **High School and Computer Graphics Technician** - Uberlândia, Brazil
 
+</details>
 
 ### Languages and Tools:
 
@@ -53,6 +54,7 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
 <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
+
 
 <!--
 **phsarah/phsarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
