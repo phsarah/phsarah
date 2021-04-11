@@ -53,7 +53,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="50" />  
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="50" /> 
 </p>
-<br />
 
 
 <h2>Softwares</h2>
