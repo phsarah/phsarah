@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on create more projects for the portfolio;
 - 🌱 I’m currently learning typescript and AWS;
-- 😄 Pronouns: she/her ela/dela;
+- 😄 Pronouns: she/her;
 - ⚡ Fun fact: i believe in aliens. 👽
 <p align='center'>
   📫 How to reach me: <a href='mailto:sarah.phessel@gmail.com'>sarah.phessel@gmail.com</a>
