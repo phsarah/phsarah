@@ -36,7 +36,7 @@
 
 </details>
 
-##Languages and Frameworks
+<h2>Languages and Frameworks</h2>
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" alt="html" width="50" />
@@ -56,7 +56,7 @@
 <br />
 
 
-##Softwares
+<h2>Softwares</h2>
 
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1024px-Blender_logo_no_text.svg.png" alt="blender" width="50" />
