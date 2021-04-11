@@ -39,13 +39,13 @@
 <summary>Languages and Tools</summary>
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original.svg" alt="git" width="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" alt="html" width="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original.svg" alt="css" width="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" alt="javascript" width="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg" alt="react" width="50" />  
-<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/typescript/typescript-original.svg" alt="typescript" width="50" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg" alt="react" width="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/typescript/typescript-original.svg" alt="typescript" width="50" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original.svg" alt="git" width="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="50" />  
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/firebase/firebase-plain.svg" alt="firebase" width="50" />  
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="50" />  
@@ -54,7 +54,7 @@
 <br />
 
 
-<summary>Design and Utilities</summary>
+<summary>Softwares</summary>
 
 <p>
 <img src="https://pics.freeicons.io/uploads/icons/png/18579954981556105328-512.png" alt="notion" width="50" />
