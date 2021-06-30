@@ -32,7 +32,7 @@
 
 - 📖 **Federal Institute of Science and Technology - IFTM**\
 📆 2017 – 2019\
-📍 **High School and Computer Graphics Technician** - Uberlândia, Brazil
+📍 **High School and Computer Graphics Technician** - Brazil
 
 </details>
 
