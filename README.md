@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Full Stack developer from Minas Gerais, Brazil.
+  Full Stack developer from Brazil.
 </p>
 <p align='center'>
   
