@@ -13,7 +13,7 @@
 </p>
 
 - 🔭 I’m currently working on create more projects for the portfolio;
-- 🌱 I’m currently learning typescript and AWS;
+- 🌱 I’m currently learning typescript and react native;
 - 😄 Pronouns: she/her;
 
 <p align='center'>
