@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi everyone 👋 I'm Sarah Pereira Hessel 💻
+  Hi everyone 👋 I'm Sarah Pereira Hessel
 </h1>
 
 <p align='center'>
