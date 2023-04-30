@@ -1,16 +1,11 @@
-<h2 align='center'>
- Hi there 👋 I'm Sarah Hessel 
+<h2 >
+ Hi there 👋
 </h2>
-
-<p align='center'>
-  I'm a Full Stack Developer from Brazil, working full-time as a back-end and i'm an engineering graduate student.
-</p>
 
 </br>
 
 - 🔭 I’m currently working on create more projects for the portfolio;
 - 🌱 I’m currently learning **react native and improving my knowledge in software engineering**;
-- ✨ Pronouns: she/her;
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:sarah.phessel@gmail.com'>sarah.phessel@gmail.com</a>
@@ -97,8 +92,6 @@
 <img src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" alt="unity" width="40" /></a> 
 <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="slack" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/trello/trello-plain.svg" alt="trello" width="40" />
-<img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" width="30" />
-</p>
 <br/>
 
 
