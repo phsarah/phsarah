@@ -12,7 +12,7 @@
 
 </br>
 
-<details>
+<!-- <details>
   <summary>📃Education</summary>
 
 
@@ -25,7 +25,7 @@
 📆 2017 – 2019\
 📍 **High School and Computer Graphics Technician** - Brazil
 
-</details>
+</details> -->
 
 ##
 
