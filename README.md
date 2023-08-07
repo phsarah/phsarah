@@ -1,33 +1,19 @@
-<h2 >
- Hi there 👋
-</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=861EA1C&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=5008&pause=1000&color=BB2AE1&size=35&center=true&vCenter=true&width=1000&lines=Hi,there!;I+hope+my+code+can+be+helpful!;Have+a+nice+day;)](https://git.io/typing-svg)
+
 
 </br>
 
-- 🔭 I’m currently working on create more projects for the portfolio;
-- 🌱 I’m currently learning react native and improving my knowledge in software engineering.
-- 📫 How to reach me: 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sarah.phessel@gmail.com)](mailto:sarah.phessel@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/sarah-pereira-hessel-35a520160/)](https://www.linkedin.com/in/sarah-pereira-hessel-35a520160/)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=phsarah&show_icons=true&count_private=true&hide_border=true&title_color=BB2AE1&icon_color=BB2AE1&text_color=c9d1d9&bg_color=0d1117" alt="Sarah Hessel  github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phsarah&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
 
 </br>
+<br/>
 
-<!-- <details>
-  <summary>📃Education</summary>
-
-
-- 📖 **Labenu**\
-📆 2020 – 2021\
-📍 **Full Stack Web Development** - Brazil
-
-
-- 📖 **Federal Institute of Science and Technology - IFTM**\
-📆 2017 – 2019\
-📍 **High School and Computer Graphics Technician** - Brazil
-
-</details> -->
-
-##
 
 <h3>Technologies</h3>
 
@@ -89,28 +75,20 @@
 </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/> 
 </a> 
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1024px-Blender_logo_no_text.svg.png" alt="blender" width="30" />
 <a href="https://unity.com/" target="_blank" rel="noreferrer">
 <img src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" alt="unity" width="30" /></a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/trello/trello-plain.svg" alt="trello" width="30" />
 <br/>
  
-  ##
+<br/>
+<br/>
 
-<div align='center'>
-<a href="https://github.com/phsarah">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phsarah&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=phsarah&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sarah-pereira-hessel-35a520160/) [<img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sarah.phessel@gmail.com)" />](mailto:sarah.phessel@gmail.com) 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=861EA1C&height=120&section=footer"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=phsarah" alt="phsarah"/> </p>
 
-
-</br>
-</br>
-
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sarah-pereira-hessel-35a520160/) 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phsarah" alt="phsarah" /> </p>
 <!--
 **phsarah/phsarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
