@@ -85,8 +85,6 @@
 <br/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=861EA1C&height=120&section=footer"/>
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sarah-pereira-hessel-35a520160/) [<img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sarah.phessel@gmail.com)" />](mailto:sarah.phessel@gmail.com) 
 <!--
 **phsarah/phsarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
